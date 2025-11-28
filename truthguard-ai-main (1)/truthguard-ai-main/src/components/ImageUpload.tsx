@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Upload, X, Image as ImageIcon } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
-
+//Raaj
 interface ImageUploadProps {
   onImageSelect: (file: File, preview: string) => void;
   selectedImage: string | null;
